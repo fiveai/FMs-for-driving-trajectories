@@ -17,62 +17,62 @@ This repository provides an up-to-date the list of approaches that utilizes foun
 
 ## 1.1. Methods Focusing on Trajectory Planning Only <a name="1.1"></a>
 - Methods without Chain-of-Thought Reasoning
-   - CarLlava, CARLA challenge winner in 2024. [[paper]](https://arxiv.org/pdf/2406.10165)
-   - DriveGPT4v2, CVPR 2025. [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_DriveGPT4-V2_Harnessing_Large_Language_Model_Capabilities_for_Enhanced_Closed-Loop_Autonomous_CVPR_2025_paper.pdf)
-   - V2X-VLM, preprint in 2024. [[paper]](https://arxiv.org/pdf/2408.09251)
+   - **CarLlava**, *CARLA challenge winner in 2024*. [[paper]](https://arxiv.org/pdf/2406.10165) [[code]](https://github.com/RenzKa/simlingo)
+   - **DriveGPT4v2**, *CVPR 2025*. [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_DriveGPT4-V2_Harnessing_Large_Language_Model_Capabilities_for_Enhanced_Closed-Loop_Autonomous_CVPR_2025_paper.pdf)
+   - **V2X-VLM**, *preprint in 2024*. [[paper]](https://arxiv.org/pdf/2408.09251)
 
 - Methods using text output of the FM for the Chain-of-Thought Reasoning 
-   - GPT-Driver, NeurIPS 2024 Workshops. [[paper]](https://arxiv.org/pdf/2310.01415)
-   - DriveVLM, CoRL 2024. [[paper]](https://arxiv.org/pdf/2402.12289)
-   - Auto-VLA, NeurIPS 2025. [[paper]](https://arxiv.org/pdf/2506.13757)
-   - RAG Driver, RSS 2024. [[paper]](https://arxiv.org/pdf/2402.10828)
-   - S4 Driver, CVPR 2025. [[paper]](https://arxiv.org/pdf/2505.24139)
+   - **GPT-Driver**, *NeurIPS 2024 Workshops*. [[paper]](https://arxiv.org/pdf/2310.01415) [[code]](https://github.com/PointsCoder/GPT-Driver)
+   - **DriveVLM**, *CoRL 2024*. [[paper]](https://arxiv.org/pdf/2402.12289)
+   - **Auto-VLA**, *NeurIPS 2025*. [[paper]](https://arxiv.org/pdf/2506.13757) [[code]](https://github.com/ucla-mobility/AutoVLA)
+   - **RAG Driver**, *RSS 2024*. [[paper]](https://www.roboticsproceedings.org/rss20/p075.pdf) [[code]](https://github.com/YuanJianhao508/RAG-Driver)
+   - **S4 Driver**, *CVPR 2025*. [[paper]](https://arxiv.org/pdf/2505.24139)
 
 - Methods using an initial trajectory prediction for the Chain-of-Thought Reasoning (with/without text output of the FM)
-   - Agent-driver, CoLM 2024. [[paper]](https://arxiv.org/pdf/2311.10813)
-   - FeD, CVPR 2024. [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Feedback-Guided_Autonomous_Driving_CVPR_2024_paper.pdf)
-   - Solve-VLM, CVPR 2025 [[paper]](https://arxiv.org/pdf/2505.16805)
+   - **Agent-driver**, *CoLM 2024*. [[paper]](https://arxiv.org/pdf/2311.10813) [[code]](https://github.com/USC-GVL/Agent-Driver)
+   - **FeD**, *CVPR 2024*. [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Feedback-Guided_Autonomous_Driving_CVPR_2024_paper.pdf)
+   - **Solve-VLM**, *CVPR 2025*. [[paper]](https://arxiv.org/pdf/2505.16805)
 
 
 ## 1.2. Methods Providing Additional Capabilities <a name="1.2"></a>
 
 - Methods Providing Language Interaction Capability Only
-   - DriveGPT4, IEEE Robotics and Automation Letters in 2024. [[paper]](https://arxiv.org/pdf/2310.01412)
-   - DriveLM-Agent, ECCV 2024. [[paper]](https://arxiv.org/pdf/2312.14150)
-   - Emma, TMLR in 2025. [[paper]](https://arxiv.org/pdf/2410.23262)
-   - OpenDriveVLA, preprint in 2025. [[paper]](https://arxiv.org/pdf/2503.23463)
-   - DiMA-MLLM, CVPR 2025. [[paper]](https://arxiv.org/pdf/2501.09757)
-   - Omni-Q/L, CVPR 2025. [[paper]](https://arxiv.org/pdf/2405.01533v2)
-   - Orion, ICCV 2025. [[paper]](https://arxiv.org/pdf/2503.19755)
+   - **DriveGPT4**, *IEEE Robotics and Automation Letters 2024*. [[paper]](https://arxiv.org/pdf/2310.01412)
+   - **DriveLM-Agent**, *ECCV 2024*. [[paper]](https://arxiv.org/pdf/2312.14150) [[code]](https://github.com/OpenDriveLab/DriveLM)
+   - **Emma**, *TMLR 2025*. [[paper]](https://arxiv.org/pdf/2410.23262) [[code]](https://github.com/taco-group/OpenEMMA)
+   - **OpenDriveVLA**, *preprint 2025*. [[paper]](https://arxiv.org/pdf/2503.23463) [[code]](https://github.com/DriveVLA/OpenDriveVLA)
+   - **DiMA-MLLM**, *CVPR 2025*. [[paper]](https://arxiv.org/pdf/2501.09757)
+   - **Omni-Q/L**, *CVPR 2025*. [[paper]](https://arxiv.org/pdf/2405.01533v2) [[code]](https://github.com/NVlabs/OmniDrive)
+   - **Orion**, *ICCV 2025*. [[paper]](https://arxiv.org/pdf/2503.19755) [[code]](https://github.com/xiaomi-mlab/Orion)
 
 - Methods Providing Action Interaction Capability Only
-   - DriveMLM, preprint in 2023. [[paper]](https://arxiv.org/pdf/2312.09245)
-   - LMDrive, CVPR 2024. [[paper]](https://arxiv.org/pdf/2312.07488)
+   - **DriveMLM**, *preprint 2023*. [[paper]](https://arxiv.org/pdf/2312.09245) [[code]](https://github.com/OpenGVLab/DriveMLM)
+   - **LMDrive**, *CVPR 2024*. [[paper]](https://arxiv.org/pdf/2312.07488) [[code]](https://github.com/opendilab/LMDrive)
 
 - Methods Providing Language and Action Interaction Capabilities
-   - SimLingo, CVPR 2025. [[paper]](https://arxiv.org/pdf/2503.09594)
+   - **SimLingo**, *CVPR 2025*. [[paper]](https://arxiv.org/pdf/2503.09594) [[code]](https://github.com/RenzKa/simlingo)
 
 # 2. Methods Using an External Foundation Model <a name="2"></a>
 
 ## 2.1. Knowledge Distillation During Training <a name="2.1"></a>
   
-- VLP, CVPR 2024. [[paper]](https://arxiv.org/pdf/2401.05577)
-- VLM-AD, CoRL 2025. [[paper]](https://arxiv.org/pdf/2412.14446)
-- DiMA, CVPR 2025. [[paper]](https://arxiv.org/pdf/2501.09757)
-- Solve-E2E, CVPR 2025 [[paper]](https://arxiv.org/pdf/2505.16805)
+- **VLP**, *CVPR 2024*. [[paper]](https://arxiv.org/pdf/2401.05577)
+- **VLM-AD**, *CoRL 2025*. [[paper]](https://arxiv.org/pdf/2412.14446)
+- **DiMA**, *CVPR 2025*. [[paper]](https://arxiv.org/pdf/2501.09757)
+- **Solve-E2E**, *CVPR 2025*. [[paper]](https://arxiv.org/pdf/2505.16805)
 
 ## 2.2. Knowledge Transfer During Inference <a name="2.2"></a>
 
-- VLM-E2E, preprint in 2025. [[paper]](https://arxiv.org/pdf/2502.18042)
-- DME-Driver, AAAI 2025. [[paper]](https://arxiv.org/pdf/2401.03641)
-- Senna-E2E, preprint in 2024. [[paper]](https://arxiv.org/pdf/2410.22313) 
-- DiffVLA, Runner Up in Autonomous Grand Challenge 2025. [[paper]](https://arxiv.org/pdf/2505.19381)
-- DriveVLM-Dual, CoRL 2024. [[paper]](https://arxiv.org/pdf/2402.12289)
-- Solve-E2E-Asnyc, CVPR 2025 [[paper]](https://arxiv.org/pdf/2505.16805)
-- DiMA-Dual, CVPR 2025. [[paper]](https://arxiv.org/pdf/2501.09757)
-- HE-Drive, preprint in 2024. [[paper]](https://arxiv.org/pdf/2410.05051) 
-- VDT-Auto, preprint in 2025. [[paper]](https://arxiv.org/pdf/2502.20108) 
-- FasionAD++, preprint in 2025. [[paper]](https://arxiv.org/pdf/2503.08162) 
+- **VLM-E2E**, *preprint 2025*. [[paper]](https://arxiv.org/pdf/2502.18042)
+- **DME-Driver**, *AAAI 2025*. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32346)
+- **Senna-E2E**, *preprint 2024*. [[paper]](https://arxiv.org/pdf/2410.22313) [[code]](https://github.com/hustvl/Senna)
+- **DiffVLA**, *Autonomous Grand Challenge 2025*. [[paper]](https://arxiv.org/pdf/2505.19381)
+- **DriveVLM-Dual**, *CoRL 2024*. [[paper]](https://arxiv.org/pdf/2402.12289)
+- **Solve-E2E-Async**, *CVPR 2025*. [[paper]](https://arxiv.org/pdf/2505.16805)
+- **DiMA-Dual**, *CVPR 2025*. [[paper]](https://arxiv.org/pdf/2501.09757)
+- **HE-Drive**, *preprint 2024*. [[paper]](https://arxiv.org/pdf/2410.05051)
+- **VDT-Auto**, *preprint 2025*. [[paper]](https://arxiv.org/pdf/2502.20108) [[code]](https://github.com/ZionGo6/VDT-Auto)
+- **FasionAD++**, *preprint 2025*. [[paper]](https://arxiv.org/pdf/2503.08162) 
 
 ## How to request addition of a paper
 If you know of an approach built on a FM (VLM/LLM etc.) or utilizes a foundation model for knowledge transfer, and is not on this repository, you are welcome to request the addition of that paper. For such an addition, please open a pull request by briefly explaining which section of the taxonomy that the paper fits into.
