@@ -36,7 +36,7 @@ This repository provides an up-to-date the list of approaches that utilizes foun
 ## 1.2. Methods Providing Additional Capabilities <a name="1.2"></a>
 
 - Methods Providing Language Interaction Capability Only:
-   - **DriveGPT4**, *IEEE Robotics and Automation Letters in 2024*. [[paper]](https://arxiv.org/pdf/2310.01412)
+   - **DriveGPT4**, *IEEE Robotics and Automation Letters in 2024*. [[paper]](https://arxiv.org/pdf/2310.01412) [[code]](https://drive.google.com/drive/folders/1PsGL7ZxMMz1ZPDS5dZSjzjfPjuPHxVL5)
    - **DriveLM-Agent**, *ECCV 2024*. [[paper]](https://arxiv.org/pdf/2312.14150) [[code]](https://github.com/OpenDriveLab/DriveLM)
    - **Emma**, *TMLR in 2025*. [[paper]](https://arxiv.org/pdf/2410.23262) [[code]](https://github.com/taco-group/OpenEMMA)
    - **OpenDriveVLA**, preprint in 2025. [[paper]](https://arxiv.org/pdf/2503.23463) [[code]](https://github.com/DriveVLA/OpenDriveVLA)
