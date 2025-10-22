@@ -76,6 +76,7 @@ This repository provides an up-to-date the list of approaches that utilizes foun
     - **HE-Drive**, preprint in 2024. [[paper]](https://arxiv.org/pdf/2410.05051)
     - **VDT-Auto**, preprint in 2025. [[paper]](https://arxiv.org/pdf/2502.20108) [[code]](https://github.com/ZionGo6/VDT-Auto)
     - **FasionAD++**, preprint in 2025. [[paper]](https://arxiv.org/pdf/2503.08162)
+    - **AsyncDriver++**, *ECCV 2024*. [[paper]](https://arxiv.org/pdf/2406.14556)
 
 ## How to request addition of a paper
 If you know of an approach built on a FM (VLM/LLM etc.) or utilizes a foundation model for knowledge transfer, and is not on this repository, you are welcome to request the addition of that paper. For such an addition, please open a pull request by briefly explaining which section of the taxonomy that the paper fits into.
