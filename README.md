@@ -5,11 +5,11 @@ This repository provides an up-to-date the list of approaches that utilizes foun
 "A Review: How are Foundation Models Helping Trajectory Planning for Autonomous Driving?". [[preprint]](???)
 
 # Table of Contents (Follows the taxonomy in the paper)
-1. [Methods Built on a Foundation Model](#1)  
-    1.1 [Methods Focusing on Trajectory Planning Only](#1.1)  
+1. [Foundation Models Tailored for Trajectory Planning](#1)  
+    1.1 [Methods Focused Solely on Trajectory Planning](#1.1)  
     1.2 [Methods Providing Additional Capabilities](#1.2)    
-2. [Methods Using an External Foundation Model](#2)  
-    2.1 [Knowledge Distillation During Training](#2.1)  
+2. [Foundation Models Guiding Trajectory Planning](#2)  
+    2.1 [Knowledge Distillation Only During Training](#2.1)  
     2.2 [Knowledge Transfer During Inference](#2.2)    
 
 # 1.Foundation Models Tailored for Trajectory Planning <a name="1"></a>
