@@ -12,9 +12,9 @@ This repository provides an up-to-date the list of approaches that utilizes foun
     2.1 [Knowledge Distillation During Training](#2.1)  
     2.2 [Knowledge Transfer During Inference](#2.2)    
 
-# 1.Methods Built on a Foundation Model <a name="1"></a>
+# 1.Foundation Models Tailored for Trajectory Planning <a name="1"></a>
 
-## 1.1. Methods Focusing on Trajectory Planning Only <a name="1.1"></a>
+## 1.1. Methods Focused Solely on Trajectory Planning <a name="1.1"></a>
 - Methods without Chain-of-Thought Reasoning:
    - **CarLlava**, *CARLA challenge winner in 2024*. [[paper]](https://arxiv.org/pdf/2406.10165) [[code]](https://github.com/RenzKa/simlingo)
    - **DriveGPT4v2**, *CVPR 2025*. [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_DriveGPT4-V2_Harnessing_Large_Language_Model_Capabilities_for_Enhanced_Closed-Loop_Autonomous_CVPR_2025_paper.pdf)
@@ -51,9 +51,9 @@ This repository provides an up-to-date the list of approaches that utilizes foun
 - Methods Providing Language and Action Interaction Capabilities:
     - **SimLingo**, *CVPR 2025*. [[paper]](https://arxiv.org/pdf/2503.09594) [[code]](https://github.com/RenzKa/simlingo)
 
-# 2. Methods Using an External Foundation Model <a name="2"></a>
+# 2. Foundation Models Guiding Trajectory Planning <a name="2"></a>
 
-## 2.1. Knowledge Distillation During Training <a name="2.1"></a>
+## 2.1. Knowledge Distillation Only During Training <a name="2.1"></a>
 
 - Methods:
 
