@@ -1,8 +1,8 @@
-# A Repository of the Papers That Benefit From Foundation Models in Trajectory Planning for Autonomous Driving
+# Foundation Models for Trajectory Planning in Autonomous Driving
 
 This repository provides an up-to-date the list of approaches that utilizes foundation models (FM) in trajectory planning for autonomous driving. It follows the taxonomy provided in the following paper:
 
-"A Review: How are Foundation Models Helping Trajectory Planning for Autonomous Driving?". [[preprint]](???)
+"Foundation Models for Trajectory Planning in Autonomous Driving: A Review of Progress and Open Challenges". [[preprint]](https://www.arxiv.org/abs/2512.00021)
 
 # Table of Contents (Follows the taxonomy in the paper)
 1. [Foundation Models Tailored for Trajectory Planning](#1)  
@@ -78,10 +78,21 @@ This repository provides an up-to-date the list of approaches that utilizes foun
     - **FasionAD++**, preprint in 2025. [[paper]](https://arxiv.org/pdf/2503.08162)
     - **AsyncDriver**, *ECCV 2024*. [[paper]](https://arxiv.org/pdf/2406.14556) [[code]](https://github.com/memberRE/AsyncDriver)
 
-## How to request addition of a paper
+## How to request addition of a paper?
 If you know of an approach built on a FM (VLM/LLM etc.) or utilizes a foundation model for knowledge transfer, and is not on this repository, you are welcome to request the addition of that paper. For such an addition, please open a pull request by briefly explaining which section of the taxonomy that the paper fits into.
 
 ## How to cite?
+```
+@misc{oksuz2025foundationmodelstrajectoryplanning,
+      title={Foundation Models for Trajectory Planning in Autonomous Driving: A Review of Progress and Open Challenges}, 
+      author={Kemal Oksuz and Alexandru Buburuzan and Anthony Knittel and Yuhan Yao and Puneet K. Dokania},
+      year={2025},
+      eprint={2512.00021},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2512.00021}, 
+}
+```
 
 ## Contact 
 Please contact Kemal Öksüz (kemal.oksuz@bosch.com) for your questions about this webpage.
