@@ -50,6 +50,7 @@ This repository provides an up-to-date the list of approaches that utilizes foun
 
 - Methods Providing Language and Action Interaction Capabilities:
     - **SimLingo**, *CVPR 2025*. [[paper]](https://arxiv.org/pdf/2503.09594) [[code]](https://github.com/RenzKa/simlingo)
+    - **ReCogDrive**, preprint in 2025. [[paper]](https://arxiv.org/pdf/2506.08052) [[code]](https://github.com/xiaomi-research/recogdrive)
 
 # 2. Foundation Models Guiding Trajectory Planning <a name="2"></a>
 
