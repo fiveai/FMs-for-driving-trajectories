@@ -39,13 +39,13 @@ This repository provides an up-to-date the list of approaches that utilizes foun
    - **DriveGPT4**, *IEEE Robotics and Automation Letters in 2024*. [[paper]](https://arxiv.org/pdf/2310.01412) [[code]](https://drive.google.com/drive/folders/1PsGL7ZxMMz1ZPDS5dZSjzjfPjuPHxVL5)
    - **DriveLM-Agent**, *ECCV 2024*. [[paper]](https://arxiv.org/pdf/2312.14150) [[code]](https://github.com/OpenDriveLab/DriveLM)
    - **Emma**, *TMLR in 2025*. [[paper]](https://arxiv.org/pdf/2410.23262) [[code]](https://github.com/taco-group/OpenEMMA)
-   - **OpenDriveVLA**, preprint in 2025. [[paper]](https://arxiv.org/pdf/2503.23463) [[code]](https://github.com/DriveVLA/OpenDriveVLA)
+   - **OpenDriveVLA**, *AAAI 2026*. [[paper]](https://arxiv.org/pdf/2503.23463) [[code]](https://github.com/DriveVLA/OpenDriveVLA)
    - **DiMA-MLLM**, *CVPR 2025*. [[paper]](https://arxiv.org/pdf/2501.09757)
    - **Omni-Q/L**, *CVPR 2025*. [[paper]](https://arxiv.org/pdf/2405.01533v2) [[code]](https://github.com/NVlabs/OmniDrive)
    - **Orion**, *ICCV 2025*. [[paper]](https://arxiv.org/pdf/2503.19755) [[code]](https://github.com/xiaomi-mlab/Orion)
 
 - Methods Providing Action Interaction Capability Only:
-   - **DriveMLM**, preprint in 2023. [[paper]](https://arxiv.org/pdf/2312.09245) [[code]](https://github.com/OpenGVLab/DriveMLM)
+   - **DriveMLM**, *Visual Intelligence in 2025*. [[paper]](https://arxiv.org/pdf/2312.09245) [[code]](https://github.com/OpenGVLab/DriveMLM)
    - **LMDrive**, *CVPR 2024*. [[paper]](https://arxiv.org/pdf/2312.07488) [[code]](https://github.com/opendilab/LMDrive)
 
 - Methods Providing Language and Action Interaction Capabilities:
