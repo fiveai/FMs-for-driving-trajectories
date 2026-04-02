@@ -51,6 +51,7 @@ Organised according to the taxonomy presented in the paper:
    - **DiMA-MLLM**, *CVPR 2025*. [[paper]](https://arxiv.org/pdf/2501.09757)
    - **Omni-Q/L**, *CVPR 2025*. [[paper]](https://arxiv.org/pdf/2405.01533v2) [[code]](https://github.com/NVlabs/OmniDrive)
    - **Orion**, *ICCV 2025*. [[paper]](https://arxiv.org/pdf/2503.19755) [[code]](https://github.com/xiaomi-mlab/Orion)
+   - **ReCogDrive**, *ICLR 2026*. [[paper]](https://openreview.net/pdf?id=JoXwhGbuMi) [[code]](https://github.com/xiaomi-research/recogdrive)
 
 - <img src="assets/5.svg" alt="5" width="18"> Methods Providing Action Interaction Capability Only:
    - **DriveMLM**, *Visual Intelligence in 2025*. [[paper]](https://arxiv.org/pdf/2312.09245) [[code]](https://github.com/OpenGVLab/DriveMLM)
