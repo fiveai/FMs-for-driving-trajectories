@@ -2,7 +2,7 @@
 [![TMLR](https://img.shields.io/badge/TMLR-pdf-1a237e?style=flat&labelColor=1a237e&color=gray)](https://openreview.net/pdf?id=E2L5J2O2Bk) [![Survey Certification](https://img.shields.io/badge/Survey_Certification-cyan)](https://jmlr.org/tmlr/papers/)
 
 
-This repository provides an up-to-date the list of approaches that utilizes foundation models (FM) in trajectory planning for autonomous driving. It follows the taxonomy provided in the following paper:
+This repository provides an up-to-date list of approaches that utilise foundation models (FM) in trajectory planning for autonomous driving. It follows the taxonomy provided in the following paper:
 
 > Kemal Oksuz, Alexandru Buburuzan, Anthony Knittel, Yuhan Yao, Puneet K. Dokania
 >
@@ -35,7 +35,7 @@ Organised according to the taxonomy presented in the paper:
    - **RAG Driver**, *RSS 2024*. [[paper]](https://www.roboticsproceedings.org/rss20/p075.pdf) [[code]](https://github.com/YuanJianhao508/RAG-Driver)
    - **S4 Driver**, *CVPR 2025*. [[paper]](https://arxiv.org/pdf/2505.24139)
 
-- <img src="assets/3.svg" alt="3" width="18"> Methods using an initial trajectory prediction for the Chain-of-Thought Reasoning (with/without text output of the FM)
+- <img src="assets/3.svg" alt="3" width="18"> Methods using an initial trajectory prediction for the Chain-of-Thought Reasoning (with/without text output of the FM):
    - **Agent-driver**, *CoLM 2024*. [[paper]](https://arxiv.org/pdf/2311.10813) [[code]](https://github.com/USC-GVL/Agent-Driver)
    - **FeD**, *CVPR 2024*. [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Feedback-Guided_Autonomous_Driving_CVPR_2024_paper.pdf)
    - **Solve-VLM**, *CVPR 2025*. [[paper]](https://arxiv.org/pdf/2505.16805)
@@ -87,7 +87,7 @@ Organised according to the taxonomy presented in the paper:
     - **AsyncDriver**, *ECCV 2024*. [[paper]](https://arxiv.org/pdf/2406.14556) [[code]](https://github.com/memberRE/AsyncDriver)
 
 ## How to request addition of a paper?
-If you know of an approach built on a FM (VLM/LLM etc.) or utilizes a foundation model for knowledge transfer, and is not on this repository, you are welcome to request the addition of that paper. For such an addition, please open a pull request by briefly explaining which section of the taxonomy that the paper fits into.
+If you know of an approach built on a FM (VLM/LLM etc.) or utilizes a foundation model for knowledge transfer, and is not in this repository, you are welcome to request the addition of that paper. For such an addition, please open a pull request by briefly explaining which section of the taxonomy that the paper fits into.
 
 ## How to cite?
 ```
